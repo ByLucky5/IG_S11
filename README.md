@@ -101,6 +101,18 @@ Se utilizan elementos dinámicos como la posición y orientación del personaje,
 
 ---
 
+
+## Video de demostración
+
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=WrauvVJRN6U" target="_blank">
+    <img src="https://img.youtube.com/vi/WrauvVJRN6U/0.jpg" alt="Ver demo del Visor" width="480">
+  </a>
+</p>
+
+---
+
 ## Tarea y Objetivo
 
 El prototipo cumple con la entrega requerida:
