@@ -19,6 +19,13 @@ Se utilizan elementos dinámicos como la posición y orientación del personaje,
      * `2`: Cámara frontal del jugador.
      * `3`: Cámara trasera del jugador.
      * `4`: Cámara de seguimiento de la pelota.
+    
+| Cámara             | Imagen                                    |
+| ------------------ | ----------------------------------------- |
+| Por defecto        | ![Cámara por defecto](./original.png) |
+| Frontal jugador    | ![Cámara frontal](./frontal.png)      |
+| Trasera jugador    | ![Cámara trasera](./3erapersona.png)  |
+| Seguimiento pelota | ![Cámara pelota](./pelota.png)        |
 
 2. **Renderizado y Luces**
 
